@@ -12,7 +12,6 @@ A fun, fast-paced platformer where every jump counts (and probably leads to chao
 - Collectibles  
 
 ## 🎯 How to Play  
-1. **Move:** [Arrow Keys] or [A/D]  
-2. **Jump:** [Spacebar]  
-3. **Dash:** [Shift] (if available)  
-4. Avoid obstacles, collect items, and don’t fall… too much.
+1. **Move:** [Arrow Keys] 
+2. **Jump:** [Spacebar]   
+3. Avoid obstacles, collect items, and don’t fall… too much.
